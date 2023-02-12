@@ -7,6 +7,7 @@ public class GitSample {
 		System.out.println("change 1 code");
 		System.out.println("change 2 code");
 		System.out.println("change 3 code");
+		System.out.println("change 4 code");
 
 	}
 
