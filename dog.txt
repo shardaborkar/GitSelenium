@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 first commit
 second commit
-bad commit
-=======
-first commit
->>>>>>> parent of af8a316 (added second commit)
+
