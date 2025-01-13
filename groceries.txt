@@ -1,8 +1,13 @@
-- 4 tomatoes
+This is grocery list
+####
+- lemon
+- spinach
 - 6 shallots
 - 1 fennel bulb
 - couple of seed potatos
-- 4 cabbage
+- 3 cabbage
 - Coriander
-- Corn flower
-- Carrots
+- cucumber
+- beat
+- brinjal
+-Cauliflower
